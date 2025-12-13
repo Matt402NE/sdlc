@@ -11,7 +11,7 @@ This is a document repository for the Software Development Life Cycle (SDLC).
 
 ### Policies
 
-* [Branch Naming Conventions](Development/Branch Naming Conventions.md)
+* [Branch Naming Conventions](Development/Branch%20Naming%20Conventions.md)
 
 ## Phase 4: Testing
 
