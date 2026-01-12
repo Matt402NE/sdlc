@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "b4927e4913aff5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Set-up-Visual-Studio-User-Secrets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set-up-Visual-Studio-User-Secrets"
+            }
+          },
+          {
             "id": "db1fa38d4ace6a83",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,8 +268,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "c5646ed9b976f3ad",
+  "active": "b4927e4913aff5fc",
   "lastOpenFiles": [
+    "Development/Secret-Management-Locally-VS.md",
+    "Development/Set-up-Visual-Studio-User-Secrets.md",
+    "Development/Branch Creation.md",
     "Development/Branch Commit Message Conventions.md",
     "Development/Branch Commit in Visual Studio 2026.md",
     "Development/Branch Commit.md",
@@ -273,7 +290,6 @@
     "Security/Static Application Security Testing.md",
     "Security/Static Code Analysis.md",
     "Testing/Types Of Tests.md",
-    "Development/Branch Creation.md",
     "MAIN Branch.md",
     "Security/Software Bill Of Materials.md",
     "Security/Assets",
