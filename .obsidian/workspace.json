@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -268,7 +268,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "b4927e4913aff5fc",
+  "active": "db1fa38d4ace6a83",
   "lastOpenFiles": [
     "Development/Secret-Management-Locally-VS.md",
     "Development/Set-up-Visual-Studio-User-Secrets.md",
