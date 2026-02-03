@@ -13,7 +13,7 @@ Branch Pull Request
 
 You need to pull the latest changes from the remote repository and update your local `main` branch. You can perform a merge to download the latest changes.  Go to **Git Repository Window** and locate the remote main branch. Right-click on it can choose the "Merge 'origin/main' into 'main'" option in the menu.
 
-![Screenshot of branch menu](assets/vs-2026-remote-branch-merge.png)
+![Screenshot of branch menu](vs-2026-remote-branch-merge.png)
 
 ### Step 4: Delete the Feature Branch
 
@@ -21,7 +21,7 @@ Once your local `main` branch is updated, you can safely delete both the local
 
 To delete the local branch — go to **Git Repository Window**.  Locate your branch and right-click on it to get additional options.  You can choose the "Delete" option in the menu.
 
-![Screenshot of branch menu](assets/vs-2026-local-branch-delete.png)
+![Screenshot of branch menu](vs-2026-local-branch-delete.png)
 Once you have deleted the branch locally — you can repeat the steps on the remote version of your \[feature] branch.
 
 ## Online Resources

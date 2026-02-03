@@ -2,9 +2,9 @@
 
 A common set of best practices and fundamental principles applies across most testing scenarios. Every piece of software has unique aspects.  The strategy for how best practices and principles are implemented will be tailored for each situation. 
 
-A pyramid illustration can be used to demonstrate how the different types of tests fit together.  It is recommended to implement multiple types of tests and find a balance of automated tests for your [Continuous Integration](../Continuous%20Integration.md) (CI) pipeline. 
+A pyramid illustration can be used to demonstrate how the different types of tests fit together.  It is recommended to implement multiple types of tests and find a balance of automated tests for your [continuous-integration](continuous-integration.md) (CI) pipeline. 
 
-![Testing Pyramid](assets/diagram-testing-pyramid.png)
+![Testing Pyramid](diagram-testing-pyramid.png)
 
 
 ## Unit Tests

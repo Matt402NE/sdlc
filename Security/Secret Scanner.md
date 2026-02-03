@@ -15,7 +15,7 @@ A Secret Scanner acts as a critical security layer, scanning commits, branches
 
 This feature is built into public repositories by default.
 
-![Screenshot of GitHub configuration](assets/screenshot-github-secret-scanning.png)
+![Screenshot of GitHub configuration](screenshot-github-secret-scanning.png)
 
 ## Pre-Commit Hook
 
